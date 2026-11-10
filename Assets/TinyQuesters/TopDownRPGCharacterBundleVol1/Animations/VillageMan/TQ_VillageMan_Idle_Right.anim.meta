@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 660f4088f78f7c3eff1650d0bae69160
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/VillageMan/TQ_VillageMan_Idle_Right.anim
+  uploadId: 984844

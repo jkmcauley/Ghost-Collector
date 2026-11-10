@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e451a4b83f8214558a6580f9af4a35f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327873
+  packageName: Ghost - Top Down Pixel Art Character Assets
+  packageVersion: 1.0
+  assetPath: Assets/sanctum_pixel/ghost_topdown_package/ghost_topdown/Sprite/ghost_attack/ghost_attack_white/ghost_attack_white_1.controller
+  uploadId: 789692

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64ff667cee2ca7d46b53cb3f7283dd4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Lizard/TQ_Lizard_Hit_Up.anim
+  uploadId: 984844

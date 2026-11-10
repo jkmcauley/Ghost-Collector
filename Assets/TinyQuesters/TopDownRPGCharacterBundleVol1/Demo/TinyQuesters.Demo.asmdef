@@ -1,0 +1,25 @@
+{
+    "name": "TinyQuesters.Demo",
+    "rootNamespace": "TinyQuesters.Demo",
+    "references": [
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TQ_HAS_UGUI"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.ugui",
+            "expression": "",
+            "define": "TQ_HAS_UGUI"
+        }
+    ],
+    "noEngineReferences": false
+}

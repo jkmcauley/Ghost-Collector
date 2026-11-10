@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fe9e5960657a4846aa18ea215e85657
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Prefabs/Monsters/TQ_Skeleton.prefab
+  uploadId: 984844

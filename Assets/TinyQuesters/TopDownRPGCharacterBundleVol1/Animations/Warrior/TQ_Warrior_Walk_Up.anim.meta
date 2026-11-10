@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02823c2ea591e5043b8aca2d3a09d546
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Warrior/TQ_Warrior_Walk_Up.anim
+  uploadId: 984844

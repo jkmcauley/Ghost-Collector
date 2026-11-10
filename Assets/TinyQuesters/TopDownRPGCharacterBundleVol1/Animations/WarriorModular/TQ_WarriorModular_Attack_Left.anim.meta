@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 439e0bda8711d1f49b8e6683c2a03ad8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/WarriorModular/TQ_WarriorModular_Attack_Left.anim
+  uploadId: 984844

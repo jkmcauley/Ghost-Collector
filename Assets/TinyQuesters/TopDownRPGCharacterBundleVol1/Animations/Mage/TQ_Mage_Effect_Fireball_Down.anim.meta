@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eddffe2b0b4dbfc44ae079cf802b1e27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Mage/TQ_Mage_Effect_Fireball_Down.anim
+  uploadId: 984844

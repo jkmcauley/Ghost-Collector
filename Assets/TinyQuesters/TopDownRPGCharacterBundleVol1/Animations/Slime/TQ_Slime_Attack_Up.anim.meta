@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 922bcb47d6e010d42a1500038a097fd2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Slime/TQ_Slime_Attack_Up.anim
+  uploadId: 984844

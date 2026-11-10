@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f49a6d3b541a6146943c79db4342a08
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Prefabs/Monsters/TQ_Bat.controller
+  uploadId: 984844

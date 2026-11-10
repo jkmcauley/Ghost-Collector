@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b035479927b691d4bbee050b60cc13b2
+timeCreated: 1458948044
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58573
+  packageName: Cemetery props pack
+  packageVersion: 1.0
+  assetPath: Assets/Cemetery props pack/Prefabs/gatePillar.prefab
+  uploadId: 109647

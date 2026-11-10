@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73ff58c9511c510a1c86b286d1707aff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/ElfArcher/TQ_ElfArcher_Attack_Right.anim
+  uploadId: 984844

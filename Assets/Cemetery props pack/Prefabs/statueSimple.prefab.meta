@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f9e3cb065f7f48479acd341d121f4cc
+timeCreated: 1458936114
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58573
+  packageName: Cemetery props pack
+  packageVersion: 1.0
+  assetPath: Assets/Cemetery props pack/Prefabs/statueSimple.prefab
+  uploadId: 109647

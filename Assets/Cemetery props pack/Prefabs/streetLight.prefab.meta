@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3e670676b4267947b275e92f72c9324
+timeCreated: 1458943177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 58573
+  packageName: Cemetery props pack
+  packageVersion: 1.0
+  assetPath: Assets/Cemetery props pack/Prefabs/streetLight.prefab
+  uploadId: 109647

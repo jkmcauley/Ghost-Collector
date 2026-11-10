@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad3ff422f218e4a449ef166b907d4482
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/ElfArcher/TQ_ElfArcher_Win_Left.anim
+  uploadId: 984844

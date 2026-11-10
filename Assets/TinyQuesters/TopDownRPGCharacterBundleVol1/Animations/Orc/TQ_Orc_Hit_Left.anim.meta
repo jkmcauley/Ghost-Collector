@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa0ec967132353c499e8f6de0a4eb0f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Orc/TQ_Orc_Hit_Left.anim
+  uploadId: 984844

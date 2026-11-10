@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 910d912c542399d4c98b689c959a4ee2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Demo/TinyQuesters.Demo.asmdef
+  uploadId: 984844

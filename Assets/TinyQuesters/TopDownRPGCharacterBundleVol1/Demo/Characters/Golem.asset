@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: Golem
+  category: Monster
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: a651bd3d00aaf874191a020fd39c256a, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: 2d0ab06c964e5f347b8b1e51d3a49612, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Idle \xB7 Left"
+    clip: {fileID: 7400000, guid: d573258973b9cd84eb5496f95d788dac, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Idle \xB7 Right"
+    clip: {fileID: 7400000, guid: 84f381513afaca64abb3a3ec5d4f9d36, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: 3ffd7432182cc4d4cb8f2d44c4fca76f, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: 1cc3af33d33dd68499332d3eee830f60, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: 55a5429b559c26949bc018b87c3cafb3, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: f324bbfb9a52e44458b0b7256a8c91bb, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Attack \xB7 Down"
+    clip: {fileID: 7400000, guid: 9ef6318b3f2e1704c8a17ef9808ea641, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Attack \xB7 Up"
+    clip: {fileID: 7400000, guid: 2771c00250b488a4381ae320f1fc613c, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Attack \xB7 Left"
+    clip: {fileID: 7400000, guid: 3ada8310cde07fb47842bcb5e1d468f1, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Attack \xB7 Right"
+    clip: {fileID: 7400000, guid: ab47e707270fb42449b2a6aecfc5209b, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}
+  - label: "Die \xB7 Down"
+    clip: {fileID: 7400000, guid: 3b26e08eef7111041a33fdb7ad277819, type: 2}
+    shadowOffset: {x: 0, y: 0}
+    shadowScale: {x: 0, y: 0}

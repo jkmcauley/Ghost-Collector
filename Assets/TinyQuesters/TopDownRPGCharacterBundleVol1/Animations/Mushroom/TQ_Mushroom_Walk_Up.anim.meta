@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c696f777949dbd0409b08c9bd0623a45
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Mushroom/TQ_Mushroom_Walk_Up.anim
+  uploadId: 984844

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 294241220d67f4d958579942fc138038
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327873
+  packageName: Ghost - Top Down Pixel Art Character Assets
+  packageVersion: 1.0
+  assetPath: Assets/sanctum_pixel/ghost_topdown_package/ghost_topdown/Sprite/ghost/ghost_white/stand_1.controller
+  uploadId: 789692

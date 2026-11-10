@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 366d774d9ae7cc245bde290127ff421a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Prefabs/NPCs/TQ_Merchant.prefab
+  uploadId: 984844

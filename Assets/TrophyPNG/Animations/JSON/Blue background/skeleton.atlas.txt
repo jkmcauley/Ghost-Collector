@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+background
+  rotate: false
+  xy: 1210, 232
+  size: 278, 278
+  orig: 278, 278
+  offset: 0, 0
+  index: -1
+left
+  rotate: true
+  xy: 2, 2
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+number
+  rotate: false
+  xy: 1490, 252
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+number2
+  rotate: false
+  xy: 1490, 384
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+number3
+  rotate: true
+  xy: 184, 23
+  size: 85, 125
+  orig: 85, 125
+  offset: 0, 0
+  index: -1
+right
+  rotate: true
+  xy: 93, 2
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 2, 110
+  size: 700, 400
+  orig: 700, 400
+  offset: 0, 0
+  index: -1
+trophy2
+  rotate: false
+  xy: 957, 176
+  size: 251, 334
+  orig: 251, 334
+  offset: 0, 0
+  index: -1
+trophy3
+  rotate: false
+  xy: 704, 175
+  size: 251, 335
+  orig: 251, 335
+  offset: 0, 0
+  index: -1

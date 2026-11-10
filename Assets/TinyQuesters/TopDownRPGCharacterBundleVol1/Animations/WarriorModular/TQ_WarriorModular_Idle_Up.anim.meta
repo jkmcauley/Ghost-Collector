@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03dc23bbd13b6fd4f9abd8fdd2596e7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/WarriorModular/TQ_WarriorModular_Idle_Up.anim
+  uploadId: 984844

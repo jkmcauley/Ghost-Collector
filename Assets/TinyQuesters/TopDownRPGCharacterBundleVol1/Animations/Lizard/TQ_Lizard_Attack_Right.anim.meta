@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dae1d09b37a271541bea08a1c63afc51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Lizard/TQ_Lizard_Attack_Right.anim
+  uploadId: 984844

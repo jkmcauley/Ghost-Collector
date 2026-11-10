@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4a0b2313717feb346a24fd554a5f6485
+timeCreated: 1548690660
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114453
+  packageName: Portals package 2
+  packageVersion: 1.0
+  assetPath: Assets/OrdosFX/PortalsPackage#2/Scripts/PortalsFX2_DemoGUI.cs
+  uploadId: 291024

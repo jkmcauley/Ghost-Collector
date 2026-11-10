@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: caefc4e6d5c556144aa039c9e875ae54
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Mage/TQ_Mage_Walk_Left.anim
+  uploadId: 984844

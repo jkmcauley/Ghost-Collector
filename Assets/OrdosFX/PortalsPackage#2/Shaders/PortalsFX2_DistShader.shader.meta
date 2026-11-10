@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 85dd6004071126c4cad931eafdb2bb64
+timeCreated: 1547473338
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114453
+  packageName: Portals package 2
+  packageVersion: 1.0
+  assetPath: Assets/OrdosFX/PortalsPackage#2/Shaders/PortalsFX2_DistShader.shader
+  uploadId: 291024

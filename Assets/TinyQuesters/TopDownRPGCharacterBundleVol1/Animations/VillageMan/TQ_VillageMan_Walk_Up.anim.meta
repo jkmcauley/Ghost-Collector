@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2f2ef4b95d817a4b8b8f33ac9d6e596
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/VillageMan/TQ_VillageMan_Walk_Up.anim
+  uploadId: 984844

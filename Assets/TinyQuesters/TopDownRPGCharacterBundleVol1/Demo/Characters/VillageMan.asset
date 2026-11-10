@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: VillageMan
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: VillageMan
+  category: NPC
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: 3993ce23e75fd5f479c630e699248bff, type: 2}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: eaca586deb841934d86baeb2364b0432, type: 2}
+  - label: "Idle \xB7 Left"
+    clip: {fileID: 7400000, guid: fd5a42b7bf3e35c8b7558ad1b3e0ba90, type: 2}
+  - label: "Idle Classic \xB7 Left"
+    clip: {fileID: 7400000, guid: 76771b8f22fc0664eba36903d058e2bd, type: 2}
+  - label: "Idle \xB7 Right"
+    clip: {fileID: 7400000, guid: 660f4088f78f7c3eff1650d0bae69160, type: 2}
+  - label: "Idle Classic \xB7 Right"
+    clip: {fileID: 7400000, guid: 5813c325a14dcd84682abaa7145e4d87, type: 2}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: 62ea587f54ab98f409ebdbbc16cd3a60, type: 2}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: d2f2ef4b95d817a4b8b8f33ac9d6e596, type: 2}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: aeea7aa8d90420440aa2b162a820f1ec, type: 2}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: 609604e2745748241a79bf456a9f93d6, type: 2}

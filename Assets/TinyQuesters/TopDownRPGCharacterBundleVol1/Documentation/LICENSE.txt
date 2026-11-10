@@ -1,0 +1,69 @@
+================================================================
+  LICENSE
+  Tiny Questers - Top-Down RPG Character Bundle Vol.1
+  (c) Bobddadoo - https://bobddadoo.itch.io
+================================================================
+
+This asset pack is published on the Unity Asset Store and is
+governed by the Unity Asset Store End User License Agreement
+(EULA): https://unity.com/legal/as-terms
+
+The pixel-art sprites, animations, and visual effects in this
+package ("the Assets") are the original work of Bobddadoo and
+are licensed to you, the purchaser, under that EULA.
+
+----------------------------------------------------------------
+  IN SHORT (the EULA governs; this is a plain summary)
+----------------------------------------------------------------
+
+  [OK] Use the Assets in your own personal and commercial
+       projects (games, apps, videos), with no per-title fee
+       and no royalties.
+  [OK] Use them in an unlimited number of your own projects.
+  [OK] Modify, edit, recolor, remix, and extend them to fit
+       your project.
+  [OK] Distribute them as an integrated part of a finished
+       game or product.
+
+  [NO] Resell or redistribute the Assets on their own, or as
+       part of another asset pack / template / stock-art
+       listing, modified or unmodified.
+  [NO] Sub-license or claim authorship of the original Assets.
+  [NO] Use the Assets, in whole or in part, as training data or
+       input for AI / machine-learning models (including
+       generative-art models, datasets, fine-tuning, LoRAs, or
+       embeddings). This is strictly prohibited.
+
+  Where this summary and the Unity Asset Store EULA differ, the
+  EULA prevails.
+
+----------------------------------------------------------------
+  NO AI / MACHINE-LEARNING TRAINING (STRICTLY PROHIBITED)
+----------------------------------------------------------------
+
+  The Assets may NOT, under any circumstances, be used as
+  training data, input, or reference for artificial-intelligence
+  or machine-learning systems. This prohibition includes, but is
+  not limited to, generative-art and image / diffusion models,
+  training or fine-tuning datasets, LoRAs, embeddings, and any
+  similar system or pipeline, whether the Assets are modified or
+  unmodified.
+
+----------------------------------------------------------------
+  CREDIT (appreciated, not required)
+----------------------------------------------------------------
+
+      "Pixel art by Bobddadoo - https://bobddadoo.itch.io"
+
+----------------------------------------------------------------
+  NO WARRANTY
+----------------------------------------------------------------
+
+  THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+  KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE
+  LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+  FROM OR IN CONNECTION WITH THE ASSETS OR THEIR USE.
+
+================================================================
+  (c) Bobddadoo - https://bobddadoo.itch.io
+================================================================

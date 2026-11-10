@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f9f68247f4b8f642bbce60b35e08c3b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Skeleton/TQ_Skeleton_Walk_Up.anim
+  uploadId: 984844

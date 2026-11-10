@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: c144c94cdf3ecdb4ea7d4721a15db3af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2831701819944571151
+    second: golem_clean_attack_right_0
+  - first:
+      213: 1939644856580990847
+    second: golem_clean_attack_right_1
+  - first:
+      213: -5358535365560082280
+    second: golem_clean_attack_right_2
+  - first:
+      213: 3632448504343434485
+    second: golem_clean_attack_right_3
+  - first:
+      213: -1886294080681911311
+    second: golem_clean_attack_right_4
+  - first:
+      213: -1670153297565869327
+    second: golem_clean_attack_right_5
+  - first:
+      213: 6724531861359930617
+    second: golem_clean_attack_right_6
+  - first:
+      213: -5271267301535758858
+    second: golem_clean_attack_right_7
+  - first:
+      213: 2015684896905176442
+    second: golem_clean_attack_right_8
+  - first:
+      213: -1339611892571114181
+    second: golem_clean_attack_right_9
+  - first:
+      213: -3815942953292481634
+    second: golem_clean_attack_right_10
+  - first:
+      213: 3149888589178025373
+    second: golem_clean_attack_right_11
+  - first:
+      213: -7145423829573972101
+    second: golem_clean_attack_right_12
+  - first:
+      213: -1655979799752489432
+    second: golem_clean_attack_right_13
+  - first:
+      213: -3149035366117361588
+    second: golem_clean_attack_right_14
+  - first:
+      213: -489448528788161768
+    second: golem_clean_attack_right_15
+  - first:
+      213: -3000256550674185407
+    second: golem_clean_attack_right_16
+  - first:
+      213: -4492652307107367722
+    second: golem_clean_attack_right_17
+  - first:
+      213: 4534023217966509821
+    second: golem_clean_attack_right_18
+  - first:
+      213: 6488228778694979596
+    second: golem_clean_attack_right_19
+  - first:
+      213: 6189748798728320660
+    second: golem_clean_attack_right_20
+  - first:
+      213: 8219251900021006944
+    second: golem_clean_attack_right_21
+  - first:
+      213: -880709182105056076
+    second: golem_clean_attack_right_22
+  - first:
+      213: 4964681377240103553
+    second: golem_clean_attack_right_23
+  - first:
+      213: 2347548656487346161
+    second: golem_clean_attack_right_24
+  - first:
+      213: -572230910980355982
+    second: golem_clean_attack_right_25
+  - first:
+      213: 8137681511461868646
+    second: golem_clean_attack_right_26
+  - first:
+      213: -3047955222773306668
+    second: golem_clean_attack_right_27
+  - first:
+      213: -4815065528892202034
+    second: golem_clean_attack_right_28
+  - first:
+      213: -2641948732543884514
+    second: golem_clean_attack_right_29
+  - first:
+      213: -5485278393605720130
+    second: golem_clean_attack_right_30
+  - first:
+      213: -2329366583046468103
+    second: golem_clean_attack_right_31
+  - first:
+      213: 8922771906829810245
+    second: golem_clean_attack_right_32
+  - first:
+      213: 3570486463127316054
+    second: golem_clean_attack_right_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golem_clean_attack_right_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019f9f5dc93c4720800000000000000
+      internalID: 2831701819944571151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f776cea68b00bea10800000000000000
+      internalID: 1939644856580990847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 47
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906c6bc978a2a5b0800000000000000
+      internalID: -5358535365560082280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 47
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f41a4e4bac096230800000000000000
+      internalID: 3632448504343434485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 47
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb5803178982d5e0800000000000000
+      internalID: -1886294080681911311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 47
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa932abc6c62d8e0800000000000000
+      internalID: -1670153297565869327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_6
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fca72d8916525d50800000000000000
+      internalID: 6724531861359930617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 47
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f544df4152b8d6b0800000000000000
+      internalID: -5271267301535758858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_8
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a752723fbb629fb10800000000000000
+      internalID: 2015684896905176442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35f86ec41eb86de0800000000000000
+      internalID: -1339611892571114181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_10
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 47
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bb8d90a1c0b0bc0800000000000000
+      internalID: -3815942953292481634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_11
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953308abf6a6bb20800000000000000
+      internalID: 3149888589178025373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_12
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 57
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc1a492ea56dc90800000000000000
+      internalID: -7145423829573972101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 47
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c7885527c409e0800000000000000
+      internalID: -1655979799752489432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_14
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48be61d4016c44d0800000000000000
+      internalID: -3149035366117361588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_15
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7eb108212539f0800000000000000
+      internalID: -489448528788161768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 47
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143c60e2092fc56d0800000000000000
+      internalID: -3000256550674185407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_17
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4b68f9784e6a1c0800000000000000
+      internalID: -4492652307107367722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_18
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe644e28161cee30800000000000000
+      internalID: 4534023217966509821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_19
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 47
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b497b2b1da0a50800000000000000
+      internalID: 6488228778694979596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_20
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4963a1ddcb766e550800000000000000
+      internalID: 6189748798728320660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_21
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062e43c3e06a01270800000000000000
+      internalID: 8219251900021006944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_22
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 47
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc04324aa717c3f0800000000000000
+      internalID: -880709182105056076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_23
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ab469986716e440800000000000000
+      internalID: 4964681377240103553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_24
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 47
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffafd2b01b249020800000000000000
+      internalID: 2347548656487346161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_25
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278848da4070f08f0800000000000000
+      internalID: -572230910980355982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_26
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 47
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664d2f9283adee070800000000000000
+      internalID: 8137681511461868646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_27
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daec47afdc73b5d0800000000000000
+      internalID: -3047955222773306668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_28
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 47
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3e62ca9637d2db0800000000000000
+      internalID: -4815065528892202034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_29
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 57
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13ade910a9e55bd0800000000000000
+      internalID: -2641948732543884514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_30
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 47
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7710ffc5060e3b0800000000000000
+      internalID: -5485278393605720130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_31
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 47
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd89d92f6d6cafd0800000000000000
+      internalID: -2329366583046468103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_32
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 47
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54afc6e36cd04db70800000000000000
+      internalID: 8922771906829810245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_attack_right_33
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 47
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6566b0e558aec8130800000000000000
+      internalID: 3570486463127316054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/SourceArt/Monsters/MonsterSecondPack/smooth/png/atlas/golem_clean_attack_right.png
+  uploadId: 984844

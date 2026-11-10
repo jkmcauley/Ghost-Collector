@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: Blacksmith
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: Blacksmith
+  category: NPC
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: 57b114168dc7d21469d8925bd90788be, type: 2}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: ab5aa5d8507a46a4d9989d1bca804c3f, type: 2}
+  - label: "Idle \xB7 Left"
+    clip: {fileID: 7400000, guid: 87dff15244f84adb1fb38c64c1d88d22, type: 2}
+  - label: "Idle Classic \xB7 Left"
+    clip: {fileID: 7400000, guid: 46be5faa755f57547b0c560c56547b6a, type: 2}
+  - label: "Idle \xB7 Right"
+    clip: {fileID: 7400000, guid: 245490d9435a3a2fc05500fd7bc0cafb, type: 2}
+  - label: "Idle Classic \xB7 Right"
+    clip: {fileID: 7400000, guid: 3461283541c8a7d45ad72c8f232870c8, type: 2}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: acfe875a947d3e8418c2cc958e6ac468, type: 2}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: 8d5787c81dece7843956d46c0edfcb73, type: 2}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: 1f94fc83f49c0174ea25e51283306d6a, type: 2}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: 15b9317ef3a0bb3469af99b19cc23e5e, type: 2}

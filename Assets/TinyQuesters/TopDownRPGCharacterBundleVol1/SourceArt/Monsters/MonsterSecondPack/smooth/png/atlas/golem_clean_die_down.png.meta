@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: 10637375cda325a4297e5173d71ca908
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7844040453595413955
+    second: golem_clean_die_down_0
+  - first:
+      213: 6389660243424687100
+    second: golem_clean_die_down_1
+  - first:
+      213: 1285657212680305463
+    second: golem_clean_die_down_2
+  - first:
+      213: 1116787915364472548
+    second: golem_clean_die_down_3
+  - first:
+      213: 7144802664374643807
+    second: golem_clean_die_down_4
+  - first:
+      213: -478069653753886583
+    second: golem_clean_die_down_5
+  - first:
+      213: -5399160041792244020
+    second: golem_clean_die_down_6
+  - first:
+      213: -8208986559463349446
+    second: golem_clean_die_down_7
+  - first:
+      213: 116832778198287599
+    second: golem_clean_die_down_8
+  - first:
+      213: -7847624603895106559
+    second: golem_clean_die_down_9
+  - first:
+      213: 2856549070595085494
+    second: golem_clean_die_down_10
+  - first:
+      213: -6910385358160768214
+    second: golem_clean_die_down_11
+  - first:
+      213: -7810369838431809366
+    second: golem_clean_die_down_12
+  - first:
+      213: 8213300582329464689
+    second: golem_clean_die_down_13
+  - first:
+      213: -6053205255702030108
+    second: golem_clean_die_down_14
+  - first:
+      213: 2170118117076834125
+    second: golem_clean_die_down_15
+  - first:
+      213: -2188253442723150209
+    second: golem_clean_die_down_16
+  - first:
+      213: 1078222411531368595
+    second: golem_clean_die_down_17
+  - first:
+      213: -8841159963774764698
+    second: golem_clean_die_down_18
+  - first:
+      213: 687444461775947348
+    second: golem_clean_die_down_19
+  - first:
+      213: -5795694441587504623
+    second: golem_clean_die_down_20
+  - first:
+      213: 1176169927316011486
+    second: golem_clean_die_down_21
+  - first:
+      213: -936055160355023211
+    second: golem_clean_die_down_22
+  - first:
+      213: -8490372829356322539
+    second: golem_clean_die_down_23
+  - first:
+      213: -618068482374947029
+    second: golem_clean_die_down_24
+  - first:
+      213: 8665449136400704373
+    second: golem_clean_die_down_25
+  - first:
+      213: -3462075615900086957
+    second: golem_clean_die_down_26
+  - first:
+      213: 6492421032796320771
+    second: golem_clean_die_down_27
+  - first:
+      213: -1686101284632117688
+    second: golem_clean_die_down_28
+  - first:
+      213: -7876219380408494818
+    second: golem_clean_die_down_29
+  - first:
+      213: -4325132119068229931
+    second: golem_clean_die_down_30
+  - first:
+      213: 7522784473884293086
+    second: golem_clean_die_down_31
+  - first:
+      213: -1182756920126802784
+    second: golem_clean_die_down_32
+  - first:
+      213: 2914209823383149455
+    second: golem_clean_die_down_33
+  - first:
+      213: 1809623085488203056
+    second: golem_clean_die_down_34
+  - first:
+      213: -3020698969018704685
+    second: golem_clean_die_down_35
+  - first:
+      213: -2579630091727231676
+    second: golem_clean_die_down_36
+  - first:
+      213: 1434456087420280156
+    second: golem_clean_die_down_37
+  - first:
+      213: 8260524358318779580
+    second: golem_clean_die_down_38
+  - first:
+      213: 5940156883651501311
+    second: golem_clean_die_down_39
+  - first:
+      213: 1860855482333790796
+    second: golem_clean_die_down_40
+  - first:
+      213: -8381588115487839010
+    second: golem_clean_die_down_41
+  - first:
+      213: -5671081353699806113
+    second: golem_clean_die_down_42
+  - first:
+      213: 4056168764335326593
+    second: golem_clean_die_down_43
+  - first:
+      213: 2796818790740804515
+    second: golem_clean_die_down_44
+  - first:
+      213: -55136697618219764
+    second: golem_clean_die_down_45
+  - first:
+      213: -898060436082600036
+    second: golem_clean_die_down_46
+  - first:
+      213: 7033108509731255554
+    second: golem_clean_die_down_47
+  - first:
+      213: 4375429084346297436
+    second: golem_clean_die_down_48
+  - first:
+      213: -8020894993359034267
+    second: golem_clean_die_down_49
+  - first:
+      213: 4089948885375249998
+    second: golem_clean_die_down_50
+  - first:
+      213: 5926426001214453020
+    second: golem_clean_die_down_51
+  - first:
+      213: -2535380959603998038
+    second: golem_clean_die_down_52
+  - first:
+      213: 7571125179677991600
+    second: golem_clean_die_down_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golem_clean_die_down_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 15
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3958ab31abdc60800000000000000
+      internalID: 7844040453595413955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 15
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b3c43322aca850800000000000000
+      internalID: 6389660243424687100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7ab85c6297d110800000000000000
+      internalID: 1285657212680305463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 15
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e69fb821b0af7f00800000000000000
+      internalID: 1116787915364472548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 15
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca0502b20772360800000000000000
+      internalID: 7144802664374643807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 15
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880b1ece2e8d59f0800000000000000
+      internalID: -478069653753886583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 15
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67d774c845215b0800000000000000
+      internalID: -5399160041792244020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 15
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a332b3d9732d31e80800000000000000
+      internalID: -8208986559463349446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_8
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 15
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe481a2fac21f9100800000000000000
+      internalID: 116832778198287599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_9
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 15
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10477325003a71390800000000000000
+      internalID: -7847624603895106559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_10
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 15
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4da4cbe3084a720800000000000000
+      internalID: 2856549070595085494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 15
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2354c921216910a0800000000000000
+      internalID: -6910385358160768214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_12
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 15
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0d8d7530efb9390800000000000000
+      internalID: -7810369838431809366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_13
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 15
+        width: 87
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b14b1d518bf170800000000000000
+      internalID: 8213300582329464689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_14
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e85a5524e1befba0800000000000000
+      internalID: -6053205255702030108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_15
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4711010eeecd1e10800000000000000
+      internalID: 2170118117076834125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_16
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7606f37613c1a1e0800000000000000
+      internalID: -2188253442723150209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_17
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 15
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983134129d96fe00800000000000000
+      internalID: 1078222411531368595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_18
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 33
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669bcccfad3ed4580800000000000000
+      internalID: -8841159963774764698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_19
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 15
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45607f2881b4a8900800000000000000
+      internalID: 687444461775947348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_20
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 15
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a887ebc9e819fa0800000000000000
+      internalID: -5795694441587504623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_21
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 15
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9fa293158925010800000000000000
+      internalID: 1176169927316011486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_22
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 15
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5961ed48ac67203f0800000000000000
+      internalID: -936055160355023211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_23
+      rect:
+        serializedVersion: 2
+        x: 4645
+        y: 15
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511969745e22c2a80800000000000000
+      internalID: -8490372829356322539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_24
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f2d2d6dfd2c67f0800000000000000
+      internalID: -618068482374947029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_25
+      rect:
+        serializedVersion: 2
+        x: 4773
+        y: 15
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573216af31cd14870800000000000000
+      internalID: 8665449136400704373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_26
+      rect:
+        serializedVersion: 2
+        x: 4901
+        y: 15
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dcbb8f19c34ffc0800000000000000
+      internalID: -3462075615900086957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_27
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 15
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047910f786b91a50800000000000000
+      internalID: 6492421032796320771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_28
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 15
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e3c22a0d3c998e0800000000000000
+      internalID: -1686101284632117688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_29
+      rect:
+        serializedVersion: 2
+        x: 5285
+        y: 15
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1554b9143c02b290800000000000000
+      internalID: -7876219380408494818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de3e44d04b0af3c0800000000000000
+      internalID: -4325132119068229931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed772bf1f9c466860800000000000000
+      internalID: 7522784473884293086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4f43009d0069fe0800000000000000
+      internalID: -1182756920126802784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bd4bbe46a517820800000000000000
+      internalID: 2914209823383149455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_34
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 15
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035eed3cb921d1910800000000000000
+      internalID: 1809623085488203056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_35
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 15
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5042ca425416d0800000000000000
+      internalID: -3020698969018704685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_36
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 15
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a0ba5910533cd0800000000000000
+      internalID: -2579630091727231676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_37
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 15
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d1590263638e310800000000000000
+      internalID: 1434456087420280156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_38
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6d04432743a270800000000000000
+      internalID: 8260524358318779580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_39
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 15
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9320a63daf6250800000000000000
+      internalID: 5940156883651501311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_40
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4208d2b33613d910800000000000000
+      internalID: 1860855482333790796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_41
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc26ba340e9eab80800000000000000
+      internalID: -8381588115487839010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_42
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54b1643e854c41b0800000000000000
+      internalID: -5671081353699806113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_43
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850e3b20086a4830800000000000000
+      internalID: 4056168764335326593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_44
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a34e3b3fdb40d620800000000000000
+      internalID: 2796818790740804515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_45
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db064377d1c3ff0800000000000000
+      internalID: -55136697618219764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_46
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d670aac27983f0800000000000000
+      internalID: -898060436082600036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_47
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205fe453dee9a9160800000000000000
+      internalID: 7033108509731255554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_48
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5caf58f195a8bc30800000000000000
+      internalID: 4375429084346297436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_49
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5682024008e00b090800000000000000
+      internalID: -8020894993359034267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_50
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eeb4e77da62c830800000000000000
+      internalID: 4089948885375249998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_51
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b60e6c05ee3250800000000000000
+      internalID: 5926426001214453020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_52
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2c384437480dcd0800000000000000
+      internalID: -2535380959603998038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_clean_die_down_53
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 15
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2e8b4cc3a021960800000000000000
+      internalID: 7571125179677991600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/SourceArt/Monsters/MonsterSecondPack/smooth/png/atlas/golem_clean_die_down.png
+  uploadId: 984844

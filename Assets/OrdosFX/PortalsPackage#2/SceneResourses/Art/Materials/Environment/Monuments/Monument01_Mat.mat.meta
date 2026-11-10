@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3a1c0abc6434d724f86a321dcf7bf14e
+timeCreated: 1500994431
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114453
+  packageName: Portals package 2
+  packageVersion: 1.0
+  assetPath: Assets/OrdosFX/PortalsPackage#2/SceneResourses/Art/Materials/Environment/Monuments/Monument01_Mat.mat
+  uploadId: 291024

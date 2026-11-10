@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f9f0a0ba3c8cc646931a65ede7ab1fd
+timeCreated: 1548060611
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114453
+  packageName: Portals package 2
+  packageVersion: 1.0
+  assetPath: Assets/OrdosFX/PortalsPackage#2/Prefabs/Portal6.prefab
+  uploadId: 291024

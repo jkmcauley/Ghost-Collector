@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a4d66a2fa416b314d9fb96c49174a070
+timeCreated: 1506005416
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119251
+  packageName: Cartoon cardio health bar
+  packageVersion: 1.0
+  assetPath: Assets/HealthBar/Scripts/HealthBarLogic.cs
+  uploadId: 247747

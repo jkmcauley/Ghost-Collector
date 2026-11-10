@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: Guard
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: Guard
+  category: NPC
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: 4a9295d80b797224780a7ae6b4ab7468, type: 2}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: ce1416473c78dfa42a461cfd14c4af49, type: 2}
+  - label: "Idle \xB7 Left"
+    clip: {fileID: 7400000, guid: 7c8e813b23536f05976f7de1d87930a8, type: 2}
+  - label: "Idle Classic \xB7 Left"
+    clip: {fileID: 7400000, guid: e16290187b6807f44853bb0e187ff222, type: 2}
+  - label: "Idle \xB7 Right"
+    clip: {fileID: 7400000, guid: 89abb354085da11c7d361b07c8ec6372, type: 2}
+  - label: "Idle Classic \xB7 Right"
+    clip: {fileID: 7400000, guid: ba0ab9822494d5344a66dc00d78c2a83, type: 2}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: 06325ab3bbc29e94b80649faa0a74f45, type: 2}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: 5e9cbbc72d708284f991f8c30260a0db, type: 2}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: 3cd29941542ff074a8e6b500b3fade22, type: 2}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: 758f3b1ca5a6b2c4db47d8ffcfd2a908, type: 2}
+  - label: "Attack \xB7 Left"
+    clip: {fileID: 7400000, guid: 83b5aa1ff74200148888c824267e6743, type: 2}
+  - label: "Attack \xB7 Right"
+    clip: {fileID: 7400000, guid: 82acb3e8ed9bec14597c0952236902a7, type: 2}
+  - label: "Win \xB7 Left"
+    clip: {fileID: 7400000, guid: 5cf272be3edfb9246bac08289daa9f71, type: 2}
+  - label: "Win \xB7 Right"
+    clip: {fileID: 7400000, guid: 7868b06d35c2c2443a26cfba7f9dd6f2, type: 2}

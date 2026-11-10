@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e4ba8c1b6fbbf94b9d053854219b794
+timeCreated: 1548724758
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114453
+  packageName: Portals package 2
+  packageVersion: 1.0
+  assetPath: Assets/OrdosFX/PortalsPackage#2/Demo/LightingData.asset
+  uploadId: 291024

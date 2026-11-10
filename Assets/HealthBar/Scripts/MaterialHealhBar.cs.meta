@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ec321a94511ced5469b57d2084eb4557
+timeCreated: 1506006015
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119251
+  packageName: Cartoon cardio health bar
+  packageVersion: 1.0
+  assetPath: Assets/HealthBar/Scripts/MaterialHealhBar.cs
+  uploadId: 247747

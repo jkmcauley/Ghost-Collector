@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8aefe874a86e76c4382fe11c5aef0b5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Goblin/TQ_Goblin_Walk_Down.anim
+  uploadId: 984844

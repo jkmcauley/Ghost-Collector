@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 78a56d2e20697a14598ad3eba99b6185
+timeCreated: 1506510854
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119251
+  packageName: Cartoon cardio health bar
+  packageVersion: 1.0
+  assetPath: Assets/HealthBar/FMALinzCardio.shader
+  uploadId: 247747

@@ -1,0 +1,1000 @@
+fileFormatVersion: 2
+guid: f7d4c2148251b574190ee47361cb16a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15a8e07a6d6dea0800000000000000
+      internalID: -5848251053102181908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af3baa4dfe08eea0800000000000000
+      internalID: -5843404035470966878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa75782f5be0380800000000000000
+      internalID: -9003058551809660292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581f4da5ce451b7d0800000000000000
+      internalID: -2904446910564339323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa32ed6323736bb0800000000000000
+      internalID: -4943981369918080349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da47edd6c69c97e0800000000000000
+      internalID: -1757363973710722349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2753167134838f4eab2dea67ac256af
+      internalID: 1378826777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be79396cc74bdf4e9bce1cea51288d8
+      internalID: 509557589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656c0865ee7225c4c8983f94ff2682ae
+      internalID: 1519106995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62e8d3b95d1604c952566fadd3310a
+      internalID: 1875201395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19c4bf9e440654384fcdc8e19f272e
+      internalID: -321743622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42a5253e9aa454bb3fd1b5924bb69b
+      internalID: 1016138945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a0f14fd4905645802e3b78a4c905d
+      internalID: 506218259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407fc9f80a6684499da25182d04c153
+      internalID: 1811173943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1acd0d07963cc6488322a3e3f06d874
+      internalID: -163143597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_9
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 768
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f74cf8ca5b8544899dcaf4631a2132
+      internalID: 1592299386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_16
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04a1c7de9f16c48a3a425bcc433f00
+      internalID: 1582621506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_17
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6177de8e0545442bb8a293ac9fb985
+      internalID: -69637067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e55885711356749a5783728128ccbf
+      internalID: 57477619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_19
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 512
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d40124404688ee4eb8879163ab1c8a3
+      internalID: -1379015947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c57b9287c2f384fbf318444a31d618
+      internalID: 1937009494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afaca39875ca0c418457ad3dc1c8821
+      internalID: -1438317136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de6288f00625d64385d4bd0b9854da7
+      internalID: -76940784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf8279d77e62f4ca1b500469841881
+      internalID: 878718536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efe4721fff4ae340a9e544955f0e37c
+      internalID: 812329656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a11ba3a7717994aaa1dd94d66bdb36
+      internalID: -769218248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831412d9c8c0634eabb024da804d396
+      internalID: 1571358162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_27
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37125866ad8a8f344b091d9238ff6af1
+      internalID: 1997988474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d88ef51353164cb9c035567329052
+      internalID: 1405142063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_29
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 256
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c3cb1a0820244baaa54ed23900693
+      internalID: 936479909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d51b9db01b4164bb38034f08691ba2
+      internalID: -748934957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc125f018c5065b4487e048185436ef6
+      internalID: 1441069656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6562c37561c7331468ea863adfc36317
+      internalID: -2112581717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b1454d66b72614394c2cfd97754af8
+      internalID: 1152872156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84136f30bf31ea6458a7e532236d8e90
+      internalID: 109155512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_35
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfdf9ed8480790418f45650f6197152
+      internalID: -873060630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_36
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d602f40665bf3947921cdb906f505b9
+      internalID: -449622609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_powerup_final_upgrade_37
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 101
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c974760765da49bfae7218806a862
+      internalID: -858724290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40f9a77567ff6ba49a51e7be021fdf6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":101.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      idle_powerup_final_upgrade_0: 1378826777
+      idle_powerup_final_upgrade_1: 509557589
+      idle_powerup_final_upgrade_10: -5848251053102181908
+      idle_powerup_final_upgrade_11: -5843404035470966878
+      idle_powerup_final_upgrade_12: -9003058551809660292
+      idle_powerup_final_upgrade_13: -2904446910564339323
+      idle_powerup_final_upgrade_14: -4943981369918080349
+      idle_powerup_final_upgrade_15: -1757363973710722349
+      idle_powerup_final_upgrade_16: 1582621506
+      idle_powerup_final_upgrade_17: -69637067
+      idle_powerup_final_upgrade_18: 57477619
+      idle_powerup_final_upgrade_19: -1379015947
+      idle_powerup_final_upgrade_2: 1519106995
+      idle_powerup_final_upgrade_20: 1937009494
+      idle_powerup_final_upgrade_21: -1438317136
+      idle_powerup_final_upgrade_22: -76940784
+      idle_powerup_final_upgrade_23: 878718536
+      idle_powerup_final_upgrade_24: 812329656
+      idle_powerup_final_upgrade_25: -769218248
+      idle_powerup_final_upgrade_26: 1571358162
+      idle_powerup_final_upgrade_27: 1997988474
+      idle_powerup_final_upgrade_28: 1405142063
+      idle_powerup_final_upgrade_29: 936479909
+      idle_powerup_final_upgrade_3: 1875201395
+      idle_powerup_final_upgrade_30: -748934957
+      idle_powerup_final_upgrade_31: 1441069656
+      idle_powerup_final_upgrade_32: -2112581717
+      idle_powerup_final_upgrade_33: 1152872156
+      idle_powerup_final_upgrade_34: 109155512
+      idle_powerup_final_upgrade_35: -873060630
+      idle_powerup_final_upgrade_36: -449622609
+      idle_powerup_final_upgrade_37: -858724290
+      idle_powerup_final_upgrade_4: -321743622
+      idle_powerup_final_upgrade_5: 1016138945
+      idle_powerup_final_upgrade_6: 506218259
+      idle_powerup_final_upgrade_7: 1811173943
+      idle_powerup_final_upgrade_8: -163143597
+      idle_powerup_final_upgrade_9: 1592299386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Art/Monsters/MonsterSecondPack/Lizard/idle_powerup_final_upgrade.png
+  uploadId: 984844

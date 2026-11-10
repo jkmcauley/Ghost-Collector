@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: Barmaid
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: Barmaid
+  category: NPC
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: 01b78e9072e43b4419aedd916bc6303c, type: 2}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: 699a0331ccb8ef0428ad1e5a992718a7, type: 2}
+  - label: "Idle \xB7 Left"
+    clip: {fileID: 7400000, guid: 2285d7d7f66cff0046d0d760c0333b26, type: 2}
+  - label: "Idle Classic \xB7 Left"
+    clip: {fileID: 7400000, guid: 1c4739bc4e11279419c8a0e696208748, type: 2}
+  - label: "Idle \xB7 Right"
+    clip: {fileID: 7400000, guid: 1db398b9628eee455facfc06356a61f7, type: 2}
+  - label: "Idle Classic \xB7 Right"
+    clip: {fileID: 7400000, guid: ecc441cb5949692499e2427cfb508556, type: 2}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: 61a6de07e6f9bad48b6a900222004092, type: 2}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: eaa290ad31e318949aa1d675ab355708, type: 2}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: 0a0ca49dd85993e49b097fd90877f936, type: 2}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: a4674ab6e92a9054290782f2d6119775, type: 2}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f7f3e5f8c8614647857510f57b0f3f2
+timeCreated: 1546962400
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114453
+  packageName: Portals package 2
+  packageVersion: 1.0
+  assetPath: Assets/OrdosFX/PortalsPackage#2/Animation/TransformPosition.anim
+  uploadId: 291024

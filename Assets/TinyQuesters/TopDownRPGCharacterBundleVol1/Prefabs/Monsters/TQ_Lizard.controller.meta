@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7048113cf7d240448811e4c866d15577
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Prefabs/Monsters/TQ_Lizard.controller
+  uploadId: 984844

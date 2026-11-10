@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4296b6a1c50330f40a8b3d306f6de18d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Mushroom/TQ_Mushroom_Hit_Right.anim
+  uploadId: 984844

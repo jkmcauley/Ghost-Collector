@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5fd3c45e4f03d7f48b9aff203370c025
+timeCreated: 1506614564
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119251
+  packageName: Cartoon cardio health bar
+  packageVersion: 1.0
+  assetPath: Assets/HealthBar/FMAAngleWaveHealhtBarUI.shader
+  uploadId: 247747

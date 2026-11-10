@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e8b89250ddcc8b42a2528dac8f2ee2f
+timeCreated: 1546939737
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114453
+  packageName: Portals package 2
+  packageVersion: 1.0
+  assetPath: Assets/OrdosFX/PortalsPackage#2/Shaders/PortalsFX2_BlendedMask.shader
+  uploadId: 291024

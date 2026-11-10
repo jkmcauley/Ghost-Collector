@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb4d505f7250394784784321d5d06bc, type: 3}
+  m_Name: TinyQuestersDemoData
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.TinyQuestersDemoData
+  characters:
+  - {fileID: 11400000, guid: a011c9ab4e01b984a9732dc43e1127e5, type: 2}
+  - {fileID: 11400000, guid: 11266b4601e4086459f71e850e1979ca, type: 2}
+  - {fileID: 11400000, guid: 1d113e0feabf4f636c404c5b313d93d1, type: 2}
+  - {fileID: 11400000, guid: ba40b704227473a4fbd30b306422178d, type: 2}
+  - {fileID: 11400000, guid: 92d05207ed2d4e946a0ec47282bcb5d4, type: 2}
+  - {fileID: 11400000, guid: 2eeae4211218c2c42954c32b82363918, type: 2}
+  - {fileID: 11400000, guid: 7906946c2887fe343a0a6eadba75135e, type: 2}
+  - {fileID: 11400000, guid: 7ab46645e1637814c8ded7a661e47674, type: 2}
+  - {fileID: 11400000, guid: 3cf55985b1a67874abcc53635aa8e858, type: 2}
+  - {fileID: 11400000, guid: 0f3326da53b6d4d458ca8941a2aac760, type: 2}
+  - {fileID: 11400000, guid: 6749a1b0516e29b4e928d71126302562, type: 2}
+  - {fileID: 11400000, guid: 5ca0329f68a406e478ab829333393e71, type: 2}
+  - {fileID: 11400000, guid: 0e20089888a74504b8eb08cb2ee80be8, type: 2}
+  - {fileID: 11400000, guid: c182f29dd0fd529409bf7d79c6538775, type: 2}
+  - {fileID: 11400000, guid: 52765cdc5c300d14d8f1066e4f1c219a, type: 2}
+  - {fileID: 11400000, guid: b4061b6a5942f0b45bb62486a6f6382d, type: 2}
+  - {fileID: 11400000, guid: ce37c961738905148bf050231aff146b, type: 2}
+  - {fileID: 11400000, guid: 15069debf3de2ec4fa9c6c26457432b8, type: 2}
+  - {fileID: 11400000, guid: ee94d8420f92d1c48a3cd426b2c5942e, type: 2}
+  - {fileID: 11400000, guid: 11f038f0a2213294985e8916e8eae6c3, type: 2}

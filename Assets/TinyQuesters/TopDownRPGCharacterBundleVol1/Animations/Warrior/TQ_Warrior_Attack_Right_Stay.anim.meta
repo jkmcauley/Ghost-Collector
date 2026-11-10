@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e199f2efd012f8459be3d64f5c0cd34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Warrior/TQ_Warrior_Attack_Right_Stay.anim
+  uploadId: 984844

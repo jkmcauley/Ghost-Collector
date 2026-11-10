@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91bf5feaae69e6b4f982b2036c137cf9
+timeCreated: 1527155162
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119251
+  packageName: Cartoon cardio health bar
+  packageVersion: 1.0
+  assetPath: Assets/HealthBar/HealthBar14.unity
+  uploadId: 247747

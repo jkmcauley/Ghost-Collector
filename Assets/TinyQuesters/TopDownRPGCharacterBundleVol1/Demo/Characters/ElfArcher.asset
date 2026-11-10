@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: ElfArcher
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: Elf Archer
+  category: Heroes
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: d1daef679f3dc39ce8db041d78f00375, type: 2}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: 72ee9063b5fd2140e74f5789707c9985, type: 2}
+  - label: "Idle \xB7 Down Left"
+    clip: {fileID: 7400000, guid: f1ef2d568761e16a798e542a074091d3, type: 2}
+  - label: "Idle \xB7 Left"
+    clip: {fileID: 7400000, guid: 97d85eda42c1d33e5be48690dcfe71a2, type: 2}
+  - label: "Idle \xB7 Down Right"
+    clip: {fileID: 7400000, guid: 847661b0b1e184c7c50f712e744a04e4, type: 2}
+  - label: "Idle \xB7 Right"
+    clip: {fileID: 7400000, guid: 4a4726f05ef807d8d95aaebe4d81e132, type: 2}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: 74c554e673ce8456c61ff7e889093fe8, type: 2}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: 6ba78817e9ea1233c847c7bbe05cc835, type: 2}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: 2cff5c71a0b3f5d5a6ec9fa564b9f66d, type: 2}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: 219c5323896908c74b819b564ec72e41, type: 2}
+  - label: "Rolling \xB7 Down"
+    clip: {fileID: 7400000, guid: 33a4633adfa13517cade02d3268ac7d1, type: 2}
+  - label: "Rolling \xB7 Up"
+    clip: {fileID: 7400000, guid: 1f43b79052143de7c3c1ee3fbdb2c377, type: 2}
+  - label: "Rolling \xB7 Left"
+    clip: {fileID: 7400000, guid: e4472498c4636dc996d01756c8f83f99, type: 2}
+  - label: "Rolling \xB7 Right"
+    clip: {fileID: 7400000, guid: a48e77acb92dd299fb1d52ed0773b976, type: 2}
+  - label: "Attack \xB7 Down"
+    clip: {fileID: 7400000, guid: 3064efb4138959e0dbb4c4af07c1146d, type: 2}
+  - label: "Attack \xB7 Up"
+    clip: {fileID: 7400000, guid: f4ec0333e543f549fd2e3ac1bfb3a190, type: 2}
+  - label: "Attack \xB7 Left"
+    clip: {fileID: 7400000, guid: 4a2e15b583699fa80712a8cd34a08dd1, type: 2}
+  - label: "Attack \xB7 Right"
+    clip: {fileID: 7400000, guid: 73ff58c9511c510a1c86b286d1707aff, type: 2}
+  - label: Attack Fast
+    clip: {fileID: 7400000, guid: bd060e738ff1b65fbe79ec346b7c1019, type: 2}
+  - label: "Attack Bow Finish \xB7 Right"
+    clip: {fileID: 7400000, guid: 133271918d8caa4e31002181350cb41d, type: 2}
+  - label: "Attack Bow Loading \xB7 Right"
+    clip: {fileID: 7400000, guid: c9a0575802630e5532bed5e270412291, type: 2}
+  - label: "Attack Bow Shot \xB7 Right"
+    clip: {fileID: 7400000, guid: 926b6e0afb0e56b969f10e1926304b0a, type: 2}
+  - label: "Hit \xB7 Down"
+    clip: {fileID: 7400000, guid: 03aa45268fdd0933599a5f3c092d1d1b, type: 2}
+  - label: "Hit \xB7 Up"
+    clip: {fileID: 7400000, guid: 1465c59f63f419fcb6276bb1d4c377e5, type: 2}
+  - label: "Hit \xB7 Left"
+    clip: {fileID: 7400000, guid: c21c00d62a2f6c3f7e73eb734ab7700b, type: 2}
+  - label: "Hit \xB7 Right"
+    clip: {fileID: 7400000, guid: f2efbb56db6d5f89f96e54e0dfab54ec, type: 2}
+  - label: "Die Flying \xB7 Left"
+    clip: {fileID: 7400000, guid: 0f0d6620859715d19633a21d3fa3411a, type: 2}
+  - label: "Die Flying \xB7 Right"
+    clip: {fileID: 7400000, guid: 1e40a31e49e3ad7ece129a9c49c40e0b, type: 2}
+  - label: Die
+    clip: {fileID: 7400000, guid: 08919b695ec53613f6cbbff83cf3a4d8, type: 2}
+  - label: Die Reflect
+    clip: {fileID: 7400000, guid: 3a8e759a6f8c09b6e0a55d5660b96ce0, type: 2}
+  - label: "Win \xB7 Left"
+    clip: {fileID: 7400000, guid: ad3ff422f218e4a449ef166b907d4482, type: 2}
+  - label: "Win \xB7 Right"
+    clip: {fileID: 7400000, guid: bc7b315c82537c64599db91b78ba45f2, type: 2}

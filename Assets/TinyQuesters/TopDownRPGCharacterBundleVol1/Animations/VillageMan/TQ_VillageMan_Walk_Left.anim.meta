@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aeea7aa8d90420440aa2b162a820f1ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/VillageMan/TQ_VillageMan_Walk_Left.anim
+  uploadId: 984844

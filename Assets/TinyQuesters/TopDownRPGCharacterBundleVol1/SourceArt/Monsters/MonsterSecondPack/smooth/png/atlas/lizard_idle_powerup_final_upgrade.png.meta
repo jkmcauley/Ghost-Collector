@@ -1,0 +1,1162 @@
+fileFormatVersion: 2
+guid: ce0e7cb9a8f42df469eb898ca9055038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9080028537091947962
+    second: lizard_idle_powerup_final_upgrade_0
+  - first:
+      213: -4304614205430448713
+    second: lizard_idle_powerup_final_upgrade_1
+  - first:
+      213: -2127202569680864193
+    second: lizard_idle_powerup_final_upgrade_2
+  - first:
+      213: -8469438213919466350
+    second: lizard_idle_powerup_final_upgrade_3
+  - first:
+      213: -3194602316709282124
+    second: lizard_idle_powerup_final_upgrade_4
+  - first:
+      213: -892738966636192448
+    second: lizard_idle_powerup_final_upgrade_5
+  - first:
+      213: 4534822713543531100
+    second: lizard_idle_powerup_final_upgrade_6
+  - first:
+      213: -170288898556868269
+    second: lizard_idle_powerup_final_upgrade_7
+  - first:
+      213: -5936669029554152494
+    second: lizard_idle_powerup_final_upgrade_8
+  - first:
+      213: -4518524699998832397
+    second: lizard_idle_powerup_final_upgrade_9
+  - first:
+      213: 4583420109956626818
+    second: lizard_idle_powerup_final_upgrade_10
+  - first:
+      213: -292559479532322443
+    second: lizard_idle_powerup_final_upgrade_11
+  - first:
+      213: 3059540506882405293
+    second: lizard_idle_powerup_final_upgrade_12
+  - first:
+      213: -8615500141028207310
+    second: lizard_idle_powerup_final_upgrade_13
+  - first:
+      213: 6676752455870700117
+    second: lizard_idle_powerup_final_upgrade_14
+  - first:
+      213: 1295222611339597964
+    second: lizard_idle_powerup_final_upgrade_15
+  - first:
+      213: -8439476497817647758
+    second: lizard_idle_powerup_final_upgrade_16
+  - first:
+      213: -5925920043085403497
+    second: lizard_idle_powerup_final_upgrade_17
+  - first:
+      213: 8624298253879578100
+    second: lizard_idle_powerup_final_upgrade_18
+  - first:
+      213: -6488070939448282545
+    second: lizard_idle_powerup_final_upgrade_19
+  - first:
+      213: -5657669043325894629
+    second: lizard_idle_powerup_final_upgrade_20
+  - first:
+      213: 4953975688761546681
+    second: lizard_idle_powerup_final_upgrade_21
+  - first:
+      213: 3039575967843881142
+    second: lizard_idle_powerup_final_upgrade_22
+  - first:
+      213: 2814149533716871468
+    second: lizard_idle_powerup_final_upgrade_23
+  - first:
+      213: 8967253751982408987
+    second: lizard_idle_powerup_final_upgrade_24
+  - first:
+      213: 2797358012336836418
+    second: lizard_idle_powerup_final_upgrade_25
+  - first:
+      213: -21328485148403962
+    second: lizard_idle_powerup_final_upgrade_26
+  - first:
+      213: 6945740143009195192
+    second: lizard_idle_powerup_final_upgrade_27
+  - first:
+      213: 2259531868503303953
+    second: lizard_idle_powerup_final_upgrade_28
+  - first:
+      213: 5684456262893242180
+    second: lizard_idle_powerup_final_upgrade_29
+  - first:
+      213: 7991001735124786250
+    second: lizard_idle_powerup_final_upgrade_30
+  - first:
+      213: 8393909741821234387
+    second: lizard_idle_powerup_final_upgrade_31
+  - first:
+      213: -1580603326473339103
+    second: lizard_idle_powerup_final_upgrade_32
+  - first:
+      213: 6436009527454721073
+    second: lizard_idle_powerup_final_upgrade_33
+  - first:
+      213: -1911399361143806749
+    second: lizard_idle_powerup_final_upgrade_34
+  - first:
+      213: 8178310475234231550
+    second: lizard_idle_powerup_final_upgrade_35
+  - first:
+      213: 4618116244832373084
+    second: lizard_idle_powerup_final_upgrade_36
+  - first:
+      213: 9139639396488323533
+    second: lizard_idle_powerup_final_upgrade_37
+  - first:
+      213: -8919164254255955792
+    second: lizard_idle_powerup_final_upgrade_38
+  - first:
+      213: 414763416734907037
+    second: lizard_idle_powerup_final_upgrade_39
+  - first:
+      213: -7076966968935479781
+    second: lizard_idle_powerup_final_upgrade_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_0
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 111
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642893057224df180800000000000000
+      internalID: -9080028537091947962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_1
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 111
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb73edf20f244c0800000000000000
+      internalID: -4304614205430448713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_2
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 111
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cbfd48888aa72e0800000000000000
+      internalID: -2127202569680864193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 111
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c163441d2867a80800000000000000
+      internalID: -8469438213919466350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_4
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 111
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be37e16e1e7aa3d0800000000000000
+      internalID: -3194602316709282124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_5
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 111
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1088c3aa5c93f0800000000000000
+      internalID: -892738966636192448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_6
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 111
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a92204b3deeee30800000000000000
+      internalID: 4534822713543531100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_7
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 111
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3594354262303adf0800000000000000
+      internalID: -170288898556868269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_8
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 111
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db9c50b8f6bc9da0800000000000000
+      internalID: -5936669029554152494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_9
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 111
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8bdbbb9b9fa41c0800000000000000
+      internalID: -4518524699998832397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_10
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 111
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289b8565e449b9f30800000000000000
+      internalID: 4583420109956626818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_11
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 105
+        width: 204
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718dc214be90fbf0800000000000000
+      internalID: -292559479532322443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_12
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 243
+        width: 100
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3f4a081eba57a20800000000000000
+      internalID: 3059540506882405293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359fa3c4489f6880800000000000000
+      internalID: -8615500141028207310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ad361dbf698ac50800000000000000
+      internalID: 6676752455870700117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 111
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8853f54a1e89f110800000000000000
+      internalID: 1295222611339597964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 111
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2754259e6d4f0ea80800000000000000
+      internalID: -8439476497817647758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 111
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ae6802e17e2cda0800000000000000
+      internalID: -5925920043085403497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_18
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 111
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd83838199afa770800000000000000
+      internalID: 8624298253879578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 111
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4276a81bddb5f5a0800000000000000
+      internalID: -6488070939448282545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 111
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1006df0bfbeb71b0800000000000000
+      internalID: -5657669043325894629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 111
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b79d8244ae00c440800000000000000
+      internalID: 4953975688761546681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_22
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 111
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b016270d3ebe2a20800000000000000
+      internalID: 3039575967843881142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 116
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c297606471edd0720800000000000000
+      internalID: 2814149533716871468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_24
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 111
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1543b1e6c5127c70800000000000000
+      internalID: 8967253751982408987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_25
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 129
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f0eea8a4632d620800000000000000
+      internalID: 2797358012336836418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_26
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 111
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d1231bd934bff0800000000000000
+      internalID: -21328485148403962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_27
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 111
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4eb362cd9346060800000000000000
+      internalID: 6945740143009195192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_28
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 111
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11760dc43487b5f10800000000000000
+      internalID: 2259531868503303953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_29
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 110
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4470ff28ade33ee40800000000000000
+      internalID: 5684456262893242180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_30
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 110
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c94ad6dbdb5ee60800000000000000
+      internalID: 7991001735124786250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_31
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 110
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc02f5ff682d7470800000000000000
+      internalID: 8393909741821234387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_32
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 110
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f71c226a1901ae0800000000000000
+      internalID: -1580603326473339103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_33
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 110
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e7f6d09c415950800000000000000
+      internalID: 6436009527454721073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_34
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 110
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46d1778685975e0800000000000000
+      internalID: -1911399361143806749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_35
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 110
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef44133fb023f7170800000000000000
+      internalID: 8178310475234231550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_36
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 110
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59c1b0c148d61040800000000000000
+      internalID: 4618116244832373084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_37
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 110
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc12ad27b9586de70800000000000000
+      internalID: 9139639396488323533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_38
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 110
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b046b3dd53c83480800000000000000
+      internalID: -8919164254255955792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_39
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 110
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9abf48412981c500800000000000000
+      internalID: 414763416734907037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard_idle_powerup_final_upgrade_40
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 114
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b168d61890099cd90800000000000000
+      internalID: -7076966968935479781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/SourceArt/Monsters/MonsterSecondPack/smooth/png/atlas/lizard_idle_powerup_final_upgrade.png
+  uploadId: 984844

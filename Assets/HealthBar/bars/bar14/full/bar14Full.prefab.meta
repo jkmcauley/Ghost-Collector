@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d75c61bafc1647c4bada0666d6f8ec94
+timeCreated: 1506509972
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119251
+  packageName: Cartoon cardio health bar
+  packageVersion: 1.0
+  assetPath: Assets/HealthBar/bars/bar14/full/bar14Full.prefab
+  uploadId: 247747

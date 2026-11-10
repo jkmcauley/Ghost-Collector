@@ -1,0 +1,136 @@
+{
+"skeleton": { "hash": "e866h+2+qqfHdLfB62bZRj8mhAE", "spine": "3.5.46", "width": 700, "height": 400, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 238.57, "rotation": 90.63, "x": -0.68, "y": -12.53 },
+	{ "name": "bone2", "parent": "bone", "length": 114, "rotation": 2.79, "x": 119.95, "y": -10.71 },
+	{ "name": "bone3", "parent": "root", "length": 229.27, "rotation": 88.17, "x": -22.08, "y": 17.22 },
+	{ "name": "bone4", "parent": "bone3", "length": 101.8, "rotation": -47.54, "x": -0.16, "y": -76.78 },
+	{ "name": "bone5", "parent": "bone3", "length": 103.8, "rotation": 52.13, "x": -8.17, "y": 26.9 }
+],
+"slots": [
+	{ "name": "left", "bone": "bone5", "attachment": "left" },
+	{ "name": "right", "bone": "bone4", "attachment": "left" },
+	{ "name": "background", "bone": "bone3", "attachment": "background" },
+	{ "name": "Trophy", "bone": "bone", "attachment": "Trophy" },
+	{ "name": "Number", "bone": "bone2", "attachment": "Number" }
+],
+"skins": {
+	"default": {
+		"background": {
+			"background": { "x": 107.43, "y": -18.66, "rotation": -75.99, "width": 278, "height": 278 }
+		},
+		"left": {
+			"left": { "x": 38.54, "y": 17.42, "rotation": -140.31, "width": 106, "height": 89 }
+		},
+		"right": {
+			"left": { "x": 31.06, "y": -18.08, "scaleX": -1, "rotation": -40.63, "width": 106, "height": 89 }
+		}
+	},
+	"trophy1": {
+		"Number": {
+			"Number": { "name": "number", "x": 73.18, "y": 16.39, "rotation": -93.41, "width": 73, "height": 130 }
+		},
+		"Trophy": {
+			"Trophy": { "name": "trophy", "x": 112.52, "y": -1.91, "rotation": -90.63, "width": 700, "height": 400 }
+		}
+	},
+	"trophy2": {
+		"Number": {
+			"Number": { "name": "number2", "x": 72.17, "y": -0.59, "rotation": -93.41, "width": 102, "height": 126 }
+		},
+		"Trophy": {
+			"Trophy": { "name": "trophy2", "x": 112.52, "y": -1.91, "rotation": -90.63, "width": 251, "height": 334 }
+		}
+	},
+	"trophy3": {
+		"Number": {
+			"Number": { "name": "number3", "x": 72.25, "y": 0.82, "rotation": -93.41, "width": 85, "height": 125 }
+		},
+		"Trophy": {
+			"Trophy": { "name": "trophy3", "x": 112.52, "y": -1.91, "rotation": -90.63, "width": 251, "height": 335 }
+		}
+	},
+	"trophy_gold": {
+		"Trophy": {
+			"Trophy": { "name": "trophy", "x": 112.52, "y": -1.91, "rotation": -90.63, "width": 700, "height": 400 }
+		}
+	},
+	"trophy_brown": {
+		"Trophy": {
+			"Trophy": { "name": "trophy3", "x": 112.52, "y": -1.91, "rotation": -90.63, "width": 251, "height": 335 }
+		}
+	},
+	"trophy_silver": {
+		"Trophy": {
+			"Trophy": { "name": "trophy2", "x": 112.52, "y": -1.91, "rotation": -90.63, "width": 251, "height": 334 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"bones": {
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 1.31 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{ "time": 0, "angle": -1.51 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.6667, "x": 1.2, "y": 1.2 },
+					{ "time": 3.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"win": {
+		"slots": {
+			"Number": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff01" },
+					{ "time": 1.1667, "color": "fffffffe" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "Number" }
+				]
+			}
+		},
+		"bones": {
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 79.54 },
+					{ "time": 0.6667, "angle": 1.31, "curve": "stepped" },
+					{ "time": 1.1667, "angle": 1.31 }
+				],
+				"translate": [
+					{ "time": 0, "x": 4.89, "y": 3.37 },
+					{ "time": 0.6667, "x": -1.16, "y": 2.82 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{ "time": 0, "angle": -76.26 },
+					{ "time": 0.6667, "angle": -1.51, "curve": "stepped" },
+					{ "time": 1.1667, "angle": -1.51 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 1.2, "y": 1.2 },
+					{ "time": 0.6667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.1667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

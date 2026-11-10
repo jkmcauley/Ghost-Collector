@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3461283541c8a7d45ad72c8f232870c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Blacksmith/TQ_Blacksmith_Idle_Right_Classic.anim
+  uploadId: 984844

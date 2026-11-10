@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6938d55022a797243804af1da55fb462
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Warrior/TQ_Warrior_Attack_Up_Stay.anim
+  uploadId: 984844

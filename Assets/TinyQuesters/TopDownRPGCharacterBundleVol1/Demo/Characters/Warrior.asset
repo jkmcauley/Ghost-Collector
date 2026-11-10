@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: Warrior
+  category: Heroes
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: bf58d03d6c814e74da8d12cad0dfdba7, type: 2}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: 29dc8991ee24d944aa2967c24cff09be, type: 2}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: 8294aa6880a698b4bbfbcc8614aab583, type: 2}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: 02823c2ea591e5043b8aca2d3a09d546, type: 2}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: 61f38e3d4ecf0ef4aa354ac44a2d7d62, type: 2}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: dfa0cf9c4a0a02d4fa9a86ff7e4970de, type: 2}
+  - label: "Attack \xB7 Down"
+    clip: {fileID: 7400000, guid: 3f10b39488444264bb616fa696fb99c7, type: 2}
+  - label: "Attack \xB7 Up"
+    clip: {fileID: 7400000, guid: a782a3d5b9f629b49a685260aef3555c, type: 2}
+  - label: "Attack \xB7 Left"
+    clip: {fileID: 7400000, guid: 562d669b397c4fa4ea7d2a15800560a5, type: 2}
+  - label: "Attack \xB7 Right"
+    clip: {fileID: 7400000, guid: 14375bde1cce36047bf5035820eb46e9, type: 2}
+  - label: "Attack Stay \xB7 Up"
+    clip: {fileID: 7400000, guid: 6938d55022a797243804af1da55fb462, type: 2}
+  - label: "Attack Stay \xB7 Right"
+    clip: {fileID: 7400000, guid: 6e199f2efd012f8459be3d64f5c0cd34, type: 2}
+  - label: "Attack Stay \xB7 Left"
+    clip: {fileID: 7400000, guid: ff8a056d6d50ad74d82aebf6814f9582, type: 2}
+  - label: "Attack Stay \xB7 Down"
+    clip: {fileID: 7400000, guid: a39cad93c1573da409e1b92c12aad4c7, type: 2}
+  - label: Hit
+    clip: {fileID: 7400000, guid: 64196c5a45bcad345bb672be909e145a, type: 2}
+  - label: Die No Shadow
+    clip: {fileID: 7400000, guid: a7022123386066747a72fdf436709df6, type: 2}
+  - label: Die
+    clip: {fileID: 7400000, guid: 8a9a2c79c017a384b947faa90db39b71, type: 2}
+  - label: "Win \xB7 Left"
+    clip: {fileID: 7400000, guid: ffba16c93c9bf9f4891f3e853f4d18c6, type: 2}
+  - label: "Win \xB7 Right"
+    clip: {fileID: 7400000, guid: 5472a3e9b9b10be4ba229b194a2aade9, type: 2}

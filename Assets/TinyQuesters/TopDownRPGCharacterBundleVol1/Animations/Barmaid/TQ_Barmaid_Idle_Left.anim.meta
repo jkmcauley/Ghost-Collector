@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2285d7d7f66cff0046d0d760c0333b26
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392102
+  packageName: "Tiny Questers \u2014 Top-Down RPG Character Bundle Vol.1"
+  packageVersion: 1.2.0
+  assetPath: Assets/TinyQuesters/TopDownRPGCharacterBundleVol1/Animations/Barmaid/TQ_Barmaid_Idle_Left.anim
+  uploadId: 984844

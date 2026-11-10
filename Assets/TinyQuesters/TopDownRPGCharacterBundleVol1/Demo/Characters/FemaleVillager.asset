@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc00e72c01992994c951b59e0552cbfd, type: 3}
+  m_Name: FemaleVillager
+  m_EditorClassIdentifier: TinyQuesters.Demo::TinyQuesters.Demo.DemoCharacterData
+  characterName: FemaleVillager
+  category: NPC
+  clips:
+  - label: "Idle \xB7 Down"
+    clip: {fileID: 7400000, guid: 93c6427bab460904b9dd4796c56176a3, type: 2}
+  - label: "Idle \xB7 Up"
+    clip: {fileID: 7400000, guid: 8985e25eeb5133a4ba9f540a733a53c3, type: 2}
+  - label: "Idle \xB7 Left"
+    clip: {fileID: 7400000, guid: 9ae822d5ef513691f88b075520117d14, type: 2}
+  - label: "Idle Classic \xB7 Left"
+    clip: {fileID: 7400000, guid: a236e482caf34e74c9a4c57788df7f0e, type: 2}
+  - label: "Idle \xB7 Right"
+    clip: {fileID: 7400000, guid: 22ef770e1d6b6dde2b87ff60413e9e3d, type: 2}
+  - label: "Idle Classic \xB7 Right"
+    clip: {fileID: 7400000, guid: 303759f325c75ee40b782b4f8f7d466f, type: 2}
+  - label: "Walk \xB7 Down"
+    clip: {fileID: 7400000, guid: c24f5f2fa291aa74aa325412d5393964, type: 2}
+  - label: "Walk \xB7 Up"
+    clip: {fileID: 7400000, guid: 918d7a83129b0a04cb48a188059de94b, type: 2}
+  - label: "Walk \xB7 Left"
+    clip: {fileID: 7400000, guid: 5d1bac196258783448490fcdb3f1a04d, type: 2}
+  - label: "Walk \xB7 Right"
+    clip: {fileID: 7400000, guid: bd64cb88c47f6c14d87660491f396332, type: 2}
